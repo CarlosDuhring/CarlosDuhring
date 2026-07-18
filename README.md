@@ -1,15 +1,9 @@
-## Olá! Eu sou o Carlos Duhring 👋
+# Carlos Duhring 👋
 
-Desenvolvedor apaixonado por tecnologia, código limpo e soluções criativas.
-
----
-
-### Tech Stack
-
-Python | Flask | HTML | CSS | SQL | JavaScript | PHP | Git | Linux
+Desenvolvedor em formação | Python | Flask | HTML | CSS | SQL
 
 ---
 
-### Onde me encontrar
+Sempre aprendendo, evoluindo um commit por vez.
 
-[LinkedIn](https://linkedin.com/in/seu-linkedin) | [Gmail](mailto:seu-email@gmail.com)
+![Carlos Duhring's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosDuhring&show_icons=true&theme=radical)
