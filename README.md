@@ -24,19 +24,19 @@ Desenvolvedor apaixonado por tecnologia, código limpo e soluções criativas.
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duhring&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhring&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosDuhring&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDuhring&layout=compact&langs_count=7&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duhring&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosDuhring&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/duhring/duhring/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CarlosDuhring/CarlosDuhring/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -49,5 +49,5 @@ Desenvolvedor apaixonado por tecnologia, código limpo e soluções criativas.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=duhring&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=CarlosDuhring&color=blueviolet&style=flat" alt="Profile views" />
 </p>
