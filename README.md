@@ -43,12 +43,12 @@ Projetos atuais focados em privacidade, rede e voz + IA.
 
 | repository | description |
 |---|---|
-| [olho-de-deus](https://github.com/CarlosDuhring/olho-de-deus) | Projeto principal |
-| [rotacao-muse-spark](https://github.com/CarlosDuhring/rotacao-muse-spark) | Rotação de IP Tor + direto |
-| [troca-ip-opencode](https://github.com/CarlosDuhring/troca-ip-opencode) | Troca e volta de IP no OpenCode |
-| [jarvis-ocvoice](https://github.com/CarlosDuhring/jarvis-ocvoice) | Assistente de voz |
 | [talentbridge](https://github.com/CarlosDuhring/talentbridge) | Plataforma de recrutamento |
 | [TrueHate](https://github.com/CarlosDuhring/TrueHate) | Plataforma web de relatos |
+| [Portfolio](https://github.com/CarlosDuhring/Portfolio) | Portfolio pessoal |
+| [Celso_ramos](https://github.com/CarlosDuhring/Celso_ramos) | Site institucional |
+| [Crud-PHP](https://github.com/CarlosDuhring/Crud-PHP) | CRUD PHP + MySQL |
+| [ExercicioCRUD](https://github.com/CarlosDuhring/ExercicioCRUD) | Exercicios CRUD |
 
 ## stats
 
