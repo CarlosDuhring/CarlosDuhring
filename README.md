@@ -1,22 +1,26 @@
+![header](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 # CarlosDuhring
+### desenvolvedor fullstack
 
 ```bash
 $ whoami
-carlosduhring
-$ uname -a
-Linux dev 6.x x86_64
-$ ls ~/projects
-olho-de-deus  rotacao-muse-spark  troca-ip-opencode  jarvis-ocvoice  talentbridge
+carlosduhring -- desenvolvedor fullstack
+$ stack --list
+frontend: HTML, CSS, JavaScript, TypeScript
+backend: Python, PHP, Java, C, MySQL
 ```
+
+![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## about
 
-Desenvolvedor. Trabalho com Python, PHP, TypeScript e automação em Linux.
-Projetos atuais focados em privacidade, rede e voz + IA.
+Desenvolvedor fullstack. Atuo do front ao back: interfaces, APIs, banco de dados e automação em Linux.
 
-- Foco: backend, scripts, integrações, OpenCode
-- Ambiente: Linux, Git, Tor, MySQL
-- Contato: abra uma issue em qualquer repositório
+- Front: HTML, CSS, JavaScript, TypeScript
+- Back: Python, PHP, Java, MySQL
+- Ambiente: Linux, Git
+- Contato: abra uma issue em qualquer repositório público
 
 ## stack
 
@@ -35,7 +39,6 @@ Projetos atuais focados em privacidade, rede e voz + IA.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=torproject&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
 
