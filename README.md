@@ -1,8 +1,6 @@
 # CarlosDuhring
 ### desenvolvedor fullstack
 
-<img width="100%" src="./assets/cover.png" alt="cover" />
-
 ```bash
 $ whoami
 carlosduhring -- desenvolvedor fullstack
@@ -17,8 +15,6 @@ Desenvolvedor fullstack. Atuo do front ao back: interfaces, APIs, banco de dados
 - Ambiente: Linux, Git
 - Contato: abra uma issue em qualquer repositório público
 
-<img width="100%" src="./assets/stack.png" alt="stack" />
-
 ## repositories
 
 - [talentbridge](https://github.com/CarlosDuhring/talentbridge) - Plataforma de recrutamento
@@ -27,3 +23,8 @@ Desenvolvedor fullstack. Atuo do front ao back: interfaces, APIs, banco de dados
 - [Celso_ramos](https://github.com/CarlosDuhring/Celso_ramos) - Site institucional
 - [Crud-PHP](https://github.com/CarlosDuhring/Crud-PHP) - CRUD PHP + MySQL
 - [ExercicioCRUD](https://github.com/CarlosDuhring/ExercicioCRUD) - Exercicios CRUD
+
+## stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=CarlosDuhring&show_icons=true&theme=dark&hide_border=true&bg_color=000000)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDuhring&layout=compact&theme=dark&hide_border=true&bg_color=000000)
