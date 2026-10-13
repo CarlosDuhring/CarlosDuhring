@@ -1,17 +1,17 @@
 # Hi, I'm CarlosDuhring
 
-<!-- IMAGE: cover/banner (usuario envia depois) -->
+<!-- IMAGE: cover/banner (user sends later) -->
 
 ```bash
 $ whoami
 carlosduhring
- $ cat role.txt
-desenvolvedor fullstack | Python, PHP, TypeScript | Linux | open source
+$ cat role.txt
+Fullstack developer building web apps and automation | Python, PHP, TypeScript | Linux and open source
 ```
 
 ## About me
 
-I am a fullstack developer.
+I am a fullstack developer working across frontend and backend.
 
 - Currently learning: advanced TypeScript, Python automation
 - Looking forward to collaborate on open source projects
@@ -21,8 +21,8 @@ I am a fullstack developer.
 
 ```json
 {
-  "role": "desenvolvedor fullstack | Python, PHP, TypeScript | Linux | open source",
-  "env": ["Linux", "Git"],
+  "role": "Fullstack developer building web apps and automation",
+  "stack": ["Python", "PHP", "TypeScript", "Linux"],
   "status": "open to collaborate"
 }
 ```
@@ -49,11 +49,11 @@ I am a fullstack developer.
 
 ## Check out my Social Media
 
-- Instagram
-- YouTube
-- Twitch
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/CarlosDuhring)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/CarlosDuhring)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:CarlosDuhring@gmail.com)
 
-<!-- IMAGE: social banner (usuario envia depois) -->
+<!-- IMAGE: social banner (user sends later) -->
 
 ## Graphs
 
@@ -61,17 +61,17 @@ I am a fullstack developer.
 |---|---|
 | ![stats](https://github-readme-stats.vercel.app/api?username=CarlosDuhring&show_icons=true&theme=dark&hide_border=true&bg_color=000000) | ![streak](https://streak-stats.demolab.com?user=CarlosDuhring&theme=dark&hide_border=true&background=000000) |
 
-| langs | views |
-|---|---|
-| ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDuhring&layout=compact&theme=dark&hide_border=true&bg_color=000000) | ![views](https://komarev.com/ghpvc/?username=CarlosDuhring&color=00FF00&style=flat-square) |
+| top langs |
+|---|
+| ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDuhring&layout=compact&theme=dark&hide_border=true&bg_color=000000) |
 
 ## Selected work
 
-Nota: projetos de horas vagas.
+Note: side projects built in free time.
 
-- [talentbridge](https://github.com/CarlosDuhring/talentbridge) - Plataforma de recrutamento
-- [TrueHate](https://github.com/CarlosDuhring/TrueHate) - Plataforma web de relatos
-- [Portfolio](https://github.com/CarlosDuhring/Portfolio) - Portfolio pessoal
-- [Celso_ramos](https://github.com/CarlosDuhring/Celso_ramos) - Site institucional
+- [talentbridge](https://github.com/CarlosDuhring/talentbridge) - Recruitment platform
+- [TrueHate](https://github.com/CarlosDuhring/TrueHate) - Internal issue reporting web platform
+- [Portfolio](https://github.com/CarlosDuhring/Portfolio) - Personal portfolio
+- [Celso_ramos](https://github.com/CarlosDuhring/Celso_ramos) - Institutional website
 - [Crud-PHP](https://github.com/CarlosDuhring/Crud-PHP) - CRUD PHP + MySQL
-- [ExercicioCRUD](https://github.com/CarlosDuhring/ExercicioCRUD) - Exercicios CRUD
+- [ExercicioCRUD](https://github.com/CarlosDuhring/ExercicioCRUD) - CRUD exercises
