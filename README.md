@@ -1,5 +1,3 @@
-![header](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 # CarlosDuhring
 ### desenvolvedor fullstack
 
@@ -10,8 +8,6 @@ $ stack --list
 frontend: HTML, CSS, JavaScript, TypeScript
 backend: Python, PHP, Java, C, MySQL
 ```
-
-![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## about
 
