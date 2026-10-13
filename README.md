@@ -5,8 +5,8 @@
 ```bash
 $ whoami
 carlosduhring
-$ cat role.txt
-desenvolvedor fullstack
+ $ cat role.txt
+desenvolvedor fullstack | Python, PHP, TypeScript | Linux | open source
 ```
 
 ## About me
@@ -21,7 +21,7 @@ I am a fullstack developer.
 
 ```json
 {
-  "role": "desenvolvedor fullstack",
+  "role": "desenvolvedor fullstack | Python, PHP, TypeScript | Linux | open source",
   "env": ["Linux", "Git"],
   "status": "open to collaborate"
 }
@@ -59,15 +59,11 @@ I am a fullstack developer.
 
 | stats | streak |
 |---|---|
-| ![stats](https://github-readme-stats.vercel.app/api?username=CarlosDuhring&show_icons=true&theme=dark&hide_border=true&bg_color=000000) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=CarlosDuhring&theme=dark&hide_border=true&background=000000) |
+| ![stats](https://github-readme-stats.vercel.app/api?username=CarlosDuhring&show_icons=true&theme=dark&hide_border=true&bg_color=000000) | ![streak](https://streak-stats.demolab.com?user=CarlosDuhring&theme=dark&hide_border=true&background=000000) |
 
-| langs | activity |
+| langs | views |
 |---|---|
-| ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDuhring&layout=compact&theme=dark&hide_border=true&bg_color=000000) | ![activity](https://github-readme-activity-graph.vercel.app/graph?username=CarlosDuhring&theme=github-dark&hide_border=true&bg_color=000000) |
-
-| trophies |
-|---|
-| ![trophy](https://github-profile-trophy.vercel.app/?username=CarlosDuhring&theme=flat&no-frame=true&column=6) |
+| ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDuhring&layout=compact&theme=dark&hide_border=true&bg_color=000000) | ![views](https://komarev.com/ghpvc/?username=CarlosDuhring&color=00FF00&style=flat-square) |
 
 ## Selected work
 
