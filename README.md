@@ -11,7 +11,7 @@ desenvolvedor fullstack
 
 ## About me
 
-I am a fullstack developer. I build front to back: interfaces, APIs, databases and Linux automation.
+I am a fullstack developer.
 
 - Currently learning: advanced TypeScript, Python automation
 - Looking forward to collaborate on open source projects
@@ -22,10 +22,8 @@ I am a fullstack developer. I build front to back: interfaces, APIs, databases a
 ```json
 {
   "role": "desenvolvedor fullstack",
-  "frontend": ["HTML", "CSS", "JavaScript", "TypeScript"],
-  "backend": ["Python", "PHP", "Java", "MySQL"],
   "env": ["Linux", "Git"],
-  "focus": "professional work"
+  "status": "open to collaborate"
 }
 ```
 
@@ -57,9 +55,23 @@ I am a fullstack developer. I build front to back: interfaces, APIs, databases a
 
 <!-- IMAGE: social banner (usuario envia depois) -->
 
+## Graphs
+
+| stats | streak |
+|---|---|
+| ![stats](https://github-readme-stats.vercel.app/api?username=CarlosDuhring&show_icons=true&theme=dark&hide_border=true&bg_color=000000) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=CarlosDuhring&theme=dark&hide_border=true&background=000000) |
+
+| langs | activity |
+|---|---|
+| ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDuhring&layout=compact&theme=dark&hide_border=true&bg_color=000000) | ![activity](https://github-readme-activity-graph.vercel.app/graph?username=CarlosDuhring&theme=github-dark&hide_border=true&bg_color=000000) |
+
+| trophies |
+|---|
+| ![trophy](https://github-profile-trophy.vercel.app/?username=CarlosDuhring&theme=flat&no-frame=true&column=6) |
+
 ## Selected work
 
-Nota: abaixo apenas projetos de horas vagas, nao representam o trabalho profissional.
+Nota: projetos de horas vagas.
 
 - [talentbridge](https://github.com/CarlosDuhring/talentbridge) - Plataforma de recrutamento
 - [TrueHate](https://github.com/CarlosDuhring/TrueHate) - Plataforma web de relatos
