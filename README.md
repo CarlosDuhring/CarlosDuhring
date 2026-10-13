@@ -2,14 +2,7 @@
 
 <!-- IMAGE: cover/banner (user sends later) -->
 
-```
- ██████╗ █████╗ ██████╗ ██╗      ██████╗ ███████╗
-██╔════╝██╔══██╗██╔══██╗██║     ██╔═══██╗██╔════╝
-██║     ███████║██████╔╝██║     ██║   ██║███████╗
-██║     ██╔══██║██╔══██╗██║     ██║   ██║╚════██║
-╚██████╗██║  ██║██║  ██║███████╗╚██████╔╝███████║
- ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝
-```
+<img src="https://avatars.githubusercontent.com/u/224633538?v=4" width="200" alt="CarlosDuhring" />
 
 ```bash
 $ whoami
@@ -40,28 +33,33 @@ I am studying fullstack development.
 
 #### Languages
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF00)
-![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00FF00)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00FF00)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00FF00)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF00)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF00)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF00)
-![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=00FF00)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,php,html,css,js,ts,java,c&perline=8" alt="Languages" />
+  </a>
+</p>
 
 #### Other Tools and Technologies
 
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00FF00)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00FF00)
-![Kali](https://img.shields.io/badge/Kali-000000?style=flat-square&logo=kalilinux&logoColor=00FF00)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00FF00)
-![Fedora](https://img.shields.io/badge/Fedora-000000?style=flat-square&logo=fedora&logoColor=00FF00)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,mysql&perline=3" alt="Tools" />
+  </a>
+</p>
 
 ## Check out my Social Media
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00)](https://instagram.com/carlos_duhring)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/carlosduhring)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:carlosduhring@gmail.com)
+<p align="center">
+  <a href="https://instagram.com/carlos_duhring"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/carlosduhring"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:carlosduhring@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+</p>
+
+## Contact
+
+- Email: [carlosduhring@gmail.com](mailto:carlosduhring@gmail.com)
+- Instagram: [instagram.com/carlos_duhring](https://instagram.com/carlos_duhring)
+- LinkedIn: [linkedin.com/in/carlosduhring](https://www.linkedin.com/in/carlosduhring)
 
 <!-- IMAGE: social banner (user sends later) -->
 
