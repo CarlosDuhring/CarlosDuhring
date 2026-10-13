@@ -1,7 +1,7 @@
 # CarlosDuhring
 ### desenvolvedor fullstack
 
-![workspace](https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80&auto=format&fit=crop)
+<img width="100%" src="./assets/cover.png" alt="cover" />
 
 ```bash
 $ whoami
@@ -17,7 +17,7 @@ Desenvolvedor fullstack. Atuo do front ao back: interfaces, APIs, banco de dados
 - Ambiente: Linux, Git
 - Contato: abra uma issue em qualquer repositório público
 
-![code](https://images.unsplash.com/photo-1557180295-76eee20ae8aa?w=1200&q=80&auto=format&fit=crop)
+<img width="100%" src="./assets/stack.png" alt="stack" />
 
 ## repositories
 
