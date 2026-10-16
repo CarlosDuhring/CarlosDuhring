@@ -241,6 +241,8 @@ carlos = {
 <p align="center"><em>Aberto a conversas sobre tecnologia, desenvolvimento web, cibersegurança e novas ideias.</em></p>
 
 <p align="center">
+  <a href="https://carlosduhring.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/carlosduhring"><img src="https://img.shields.io/badge/LinkedIn-047857?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
   <a href="https://instagram.com/carlos_duhring"><img src="https://img.shields.io/badge/Instagram-059669?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
