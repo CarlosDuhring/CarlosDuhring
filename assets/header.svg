@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none" role="img" aria-label="Carlos Duhring - Estudante de Desenvolvimento de Sistemas">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#03110A"/>
+      <stop offset="55%"  stop-color="#04170E"/>
+      <stop offset="100%" stop-color="#02180F"/>
+    </linearGradient>
+
+    <radialGradient id="vig" cx="50%" cy="50%" r="60%">
+      <stop offset="0%"   stop-color="#10B981" stop-opacity="0.16"/>
+      <stop offset="70%"  stop-color="#10B981" stop-opacity="0.03"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="fadeTop" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0.55"/>
+    </linearGradient>
+
+    <linearGradient id="scan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#34D399" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#6EE7B7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#34D399" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="9" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="typeclip"><rect x="545" y="150" width="0" height="40">
+      <animate attributeName="width" dur="7s" begin="1s" repeatCount="indefinite"
+        calcMode="discrete"
+        keyTimes="0;0.03;0.06;0.09;0.12;0.15;0.18;0.21;0.24;0.27;0.30;0.34;0.38;0.42;0.46;1"
+        values="0;23;46;69;92;115;138;161;184;207;230;253;276;300;300;300" />
+    </rect></clipPath>
+
+    <style>
+      .mono { font-family: "Cascadia Mono", "Consolas", "Courier New", monospace; }
+      .name { font: 700 60px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #FFFFFF; letter-spacing: -0.8px; }
+      .prompt { font: 600 19px "Cascadia Mono", "Consolas", "Courier New", monospace; fill: #34D399; }
+      .cmd { font: 500 19px "Cascadia Mono", "Consolas", "Courier New", monospace; fill: #A7F3D0; }
+      .tag { font: 600 11px "Cascadia Mono", "Consolas", "Courier New", monospace; fill: #6EE7B7; letter-spacing: 2px; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#vig)"/>
+
+  <!-- chuva de caracteres -->
+  <g class="mono" font-size="17" fill="#34D399">
+    <text x="42"  y="-20" opacity="0.22">0x1F<tspan x="42" dy="19">10</tspan><tspan x="42" dy="19">01</tspan></text>
+    <text x="148" y="-70" opacity="0.15">101<tspan x="148" dy="19">λ</tspan><tspan x="148" dy="19">0</tspan><tspan x="148" dy="19">1</tspan></text>
+    <text x="255" y="-10" opacity="0.20">01<tspan x="255" dy="19">10</tspan><tspan x="255" dy="19">#</tspan></text>
+    <text x="360" y="-95" opacity="0.12">10<tspan x="360" dy="19">01</tspan><tspan x="360" dy="19">0</tspan><tspan x="360" dy="19">1</tspan><tspan x="360" dy="19">10</tspan></text>
+    <text x="470" y="30"  opacity="0.10">1<tspan x="470" dy="19">0</tspan><tspan x="470" dy="19">1</tspan><tspan x="470" dy="19">1</tspan></text>
+    <text x="585" y="-120" opacity="0.13">01<tspan x="585" dy="19">01</tspan><tspan x="585" dy="19">λ</tspan><tspan x="585" dy="19">0</tspan><tspan x="585" dy="19">1</tspan></text>
+    <text x="700" y="-40" opacity="0.18">10<tspan x="700" dy="19">0</tspan><tspan x="700" dy="19">1</tspan></text>
+    <text x="812" y="-80" opacity="0.14">0<tspan x="812" dy="19">1</tspan><tspan x="812" dy="19">0</tspan><tspan x="812" dy="19">1</tspan><tspan x="812" dy="19">1</tspan></text>
+    <text x="925" y="20"  opacity="0.20">11<tspan x="925" dy="19">0</tspan><tspan x="925" dy="19">0</tspan></text>
+    <text x="1042" y="-60" opacity="0.16">01<tspan x="1042" dy="19">1</tspan><tspan x="1042" dy="19">0</tspan><tspan x="1042" dy="19">1</tspan></text>
+    <text x="1138" y="-130" opacity="0.12">1<tspan x="1138" dy="19">0</tspan><tspan x="1138" dy="19">1</tspan><tspan x="1138" dy="19">0</tspan></text>
+
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,420" dur="9s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- segunda camada, mais lenta -->
+  <g class="mono" font-size="13" fill="#6EE7B7" opacity="0.10">
+    <text x="95"  y="-160">0101<tspan x="95" dy="16">10</tspan><tspan x="95" dy="16">0</tspan></text>
+    <text x="205" y="-220">10<tspan x="205" dy="16">01</tspan><tspan x="205" dy="16">1</tspan><tspan x="205" dy="16">0</tspan></text>
+    <text x="330" y="-260">01<tspan x="330" dy="16">1</tspan><tspan x="330" dy="16">0</tspan></text>
+    <text x="545" y="-190">01<tspan x="545" dy="16">0</tspan><tspan x="545" dy="16">1</tspan><tspan x="545" dy="16">0</tspan></text>
+    <text x="655" y="-300">1<tspan x="655" dy="16">0</tspan><tspan x="655" dy="16">1</tspan></text>
+    <text x="770" y="-170">0<tspan x="770" dy="16">1</tspan><tspan x="770" dy="16">0</tspan><tspan x="770" dy="16">1</tspan></text>
+    <text x="900" y="-240">10<tspan x="900" dy="16">01</tspan><tspan x="900" dy="16">0</tspan></text>
+    <text x="1005" y="-140">01<tspan x="1005" dy="16">1</tspan><tspan x="1005" dy="16">0</tspan></text>
+    <text x="1105" y="-280">0<tspan x="1105" dy="16">1</tspan><tspan x="1105" dy="16">0</tspan></text>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,560" dur="17s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- grade sutil -->
+  <g stroke="#10B981" stroke-width="0.5" opacity="0.07">
+    <path d="M0 70 H1200"/><path d="M0 140 H1200"/><path d="M0 210 H1200"/>
+    <path d="M150 0 V280"/><path d="M300 0 V280"/><path d="M450 0 V280"/>
+    <path d="M600 0 V280"/><path d="M750 0 V280"/><path d="M900 0 V280"/>
+    <path d="M1050 0 V280"/>
+  </g>
+
+  <!-- cantos HUD -->
+  <g stroke="#34D399" stroke-width="2.2" fill="none" opacity="0.75">
+    <path d="M24 62 V24 H62"/>
+    <path d="M1176 62 V24 H1138"/>
+    <path d="M24 218 V256 H62"/>
+    <path d="M1176 218 V256 H1138"/>
+    <animate attributeName="opacity" values="0.75;0.35;0.75" dur="4s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- etiquetas de canto -->
+  <text class="tag" x="34" y="46">SEC//PROFILE</text>
+  <text class="tag" x="1013" y="46">SYS.ONLINE</text>
+  <circle cx="1108" cy="42" r="3.2" fill="#34D399">
+    <animate attributeName="opacity" values="1;0.15;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- nome -->
+  <text class="name" x="600" y="140" text-anchor="middle" filter="url(#glow)">Carlos Duhring</text>
+
+  <!-- linha de terminal com digitacao -->
+  <text class="prompt" x="340" y="180">carlos@duhring:~$</text>
+  <g clip-path="url(#typeclip)">
+    <text class="cmd" x="545" y="180" textLength="300" lengthAdjust="spacing">./init.sh --profile carlos</text>
+  </g>
+  <rect x="850" y="165" width="10" height="18" fill="#6EE7B7">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- linha de status -->
+  <g class="tag" fill="#34D399" opacity="0.55">
+    <text x="378" y="228">[ PYTHON ]   [ PHP ]   [ JAVASCRIPT ]   [ LINUX ]   [ MYSQL ]</text>
+  </g>
+
+  <!-- scanline -->
+  <rect x="0" y="0" width="1200" height="2" fill="url(#scan)">
+    <animate attributeName="y" values="-4;284" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>

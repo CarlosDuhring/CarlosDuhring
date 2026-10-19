@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:011C13,50:047857,100:22D3EE&text=Carlos%20Duhring&fontColor=FFFFFF&fontSize=54&animation=fadeIn&fontAlignY=32&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=52&descSize=18&descColor=D1FAE5" width="100%" alt="Carlos Duhring — Estudante de Desenvolvimento de Sistemas" />
+  <img src="assets/header.svg" width="100%" alt="Carlos Duhring — Estudante de Desenvolvimento de Sistemas" />
 </div>
 
 <div align="center">
@@ -102,17 +102,13 @@ carlos = {
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=CarlosDuhring&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&title_color=34D399&icon_color=22D3EE&text_color=C9D1D9&bg_color=0D1117" />
+  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=CarlosDuhring&locale=pt-br&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&title_color=34D399&icon_color=22D3EE&text_color=C9D1D9&bg_color=0D1117" />
   &nbsp;
-  <img height="170" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDuhring&layout=compact&langs_count=10&hide_border=true&title_color=34D399&text_color=C9D1D9&bg_color=0D1117" />
+  <img height="170" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDuhring&locale=pt-br&layout=compact&langs_count=10&hide_border=true&title_color=34D399&text_color=C9D1D9&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=CarlosDuhring&locale=pt_BR&date_format=j%2Fn%2F%5BY%5D&hide_border=true&background=0D1117&stroke=22D3EE&ring=34D399&fire=22D3EE&currStreakNum=A7F3D0&currStreakLabel=34D399&sideNums=C9D1D9&sideLabels=22D3EE&dates=6B7280" />
-</p>
-
-<p align="center">
-  <img alt="Resumo de atividade do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosDuhring&theme=github_dark" />
+  <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=CarlosDuhring&locale=pt_BR&date_format=j%2Fn%2FY&hide_border=true&background=0D1117&stroke=22D3EE&ring=34D399&fire=22D3EE&currStreakNum=A7F3D0&currStreakLabel=34D399&sideNums=C9D1D9&sideLabels=22D3EE&dates=6B7280" />
 </p>
 
 ---
@@ -182,5 +178,5 @@ carlos = {
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22D3EE,50:047857,100:011C13" width="100%" alt="Rodapé" />
+  <img src="assets/footer.svg" width="100%" alt="Rodapé — fim da transmissão" />
 </p>
