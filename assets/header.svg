@@ -1,26 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none" role="img" aria-label="Carlos Duhring - Estudante de Desenvolvimento de Sistemas">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#03110A"/>
-      <stop offset="55%"  stop-color="#04170E"/>
-      <stop offset="100%" stop-color="#02180F"/>
+      <stop offset="0%"   stop-color="#0A0414"/>
+      <stop offset="55%"  stop-color="#0D0518"/>
+      <stop offset="100%" stop-color="#12061F"/>
     </linearGradient>
 
     <radialGradient id="vig" cx="50%" cy="50%" r="60%">
-      <stop offset="0%"   stop-color="#10B981" stop-opacity="0.16"/>
-      <stop offset="70%"  stop-color="#10B981" stop-opacity="0.03"/>
+      <stop offset="0%"   stop-color="#A855F7" stop-opacity="0.16"/>
+      <stop offset="70%"  stop-color="#A855F7" stop-opacity="0.03"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
 
     <linearGradient id="fadeTop" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%"   stop-color="#000000" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#10B981" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0.55"/>
     </linearGradient>
 
     <linearGradient id="scan" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#34D399" stop-opacity="0"/>
-      <stop offset="50%"  stop-color="#6EE7B7" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#34D399" stop-opacity="0"/>
+      <stop offset="0%"   stop-color="#C084FC" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#E9D5FF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0"/>
     </linearGradient>
 
     <clipPath id="typeclip"><rect x="545" y="150" width="0" height="40">
@@ -33,9 +33,9 @@
     <style>
       .mono { font-family: "Cascadia Mono", "Consolas", "Courier New", monospace; }
       .name { font: 700 60px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #FFFFFF; letter-spacing: -0.8px; }
-      .prompt { font: 600 19px "Cascadia Mono", "Consolas", "Courier New", monospace; fill: #34D399; }
-      .cmd { font: 500 19px "Cascadia Mono", "Consolas", "Courier New", monospace; fill: #A7F3D0; }
-      .tag { font: 600 11px "Cascadia Mono", "Consolas", "Courier New", monospace; fill: #6EE7B7; letter-spacing: 2px; }
+      .prompt { font: 600 19px "Cascadia Mono", "Consolas", "Courier New", monospace; fill: #C084FC; }
+      .cmd { font: 500 19px "Cascadia Mono", "Consolas", "Courier New", monospace; fill: #F3E8FF; }
+      .tag { font: 600 11px "Cascadia Mono", "Consolas", "Courier New", monospace; fill: #E9D5FF; letter-spacing: 2px; }
     </style>
   </defs>
 
@@ -43,7 +43,7 @@
   <rect width="1200" height="280" fill="url(#vig)"/>
 
   <!-- chuva de caracteres -->
-  <g class="mono" font-size="17" fill="#34D399">
+  <g class="mono" font-size="17" fill="#C084FC">
     <text x="42"  y="-20" opacity="0.22">0x1F<tspan x="42" dy="19">10</tspan><tspan x="42" dy="19">01</tspan></text>
     <text x="148" y="-70" opacity="0.15">101<tspan x="148" dy="19">λ</tspan><tspan x="148" dy="19">0</tspan><tspan x="148" dy="19">1</tspan></text>
     <text x="255" y="-10" opacity="0.20">01<tspan x="255" dy="19">10</tspan><tspan x="255" dy="19">#</tspan></text>
@@ -60,7 +60,7 @@
   </g>
 
   <!-- segunda camada, mais lenta -->
-  <g class="mono" font-size="13" fill="#6EE7B7" opacity="0.10">
+  <g class="mono" font-size="13" fill="#E9D5FF" opacity="0.10">
     <text x="95"  y="-160">0101<tspan x="95" dy="16">10</tspan><tspan x="95" dy="16">0</tspan></text>
     <text x="205" y="-220">10<tspan x="205" dy="16">01</tspan><tspan x="205" dy="16">1</tspan><tspan x="205" dy="16">0</tspan></text>
     <text x="330" y="-260">01<tspan x="330" dy="16">1</tspan><tspan x="330" dy="16">0</tspan></text>
@@ -74,7 +74,7 @@
   </g>
 
   <!-- grade sutil -->
-  <g stroke="#10B981" stroke-width="0.5" opacity="0.07">
+  <g stroke="#A855F7" stroke-width="0.5" opacity="0.07">
     <path d="M0 70 H1200"/><path d="M0 140 H1200"/><path d="M0 210 H1200"/>
     <path d="M150 0 V280"/><path d="M300 0 V280"/><path d="M450 0 V280"/>
     <path d="M600 0 V280"/><path d="M750 0 V280"/><path d="M900 0 V280"/>
@@ -82,7 +82,7 @@
   </g>
 
   <!-- cantos HUD -->
-  <g stroke="#34D399" stroke-width="2.2" fill="none" opacity="0.75">
+  <g stroke="#C084FC" stroke-width="2.2" fill="none" opacity="0.75">
     <path d="M24 62 V24 H62"/>
     <path d="M1176 62 V24 H1138"/>
     <path d="M24 218 V256 H62"/>
@@ -93,7 +93,7 @@
   <!-- etiquetas de canto -->
   <text class="tag" x="34" y="46">SEC//PROFILE</text>
   <text class="tag" x="1013" y="46">SYS.ONLINE</text>
-  <circle cx="1108" cy="42" r="3.2" fill="#34D399">
+  <circle cx="1108" cy="42" r="3.2" fill="#C084FC">
     <animate attributeName="opacity" values="1;0.15;1" dur="1.6s" repeatCount="indefinite"/>
   </circle>
 
@@ -105,7 +105,7 @@
   <g clip-path="url(#typeclip)">
     <text class="cmd" x="545" y="180" textLength="300" lengthAdjust="spacing">./init.sh --profile carlos</text>
   </g>
-  <rect x="545" y="165" width="10" height="18" fill="#6EE7B7">
+  <rect x="545" y="165" width="10" height="18" fill="#E9D5FF">
     <animate attributeName="x" dur="9s" begin="1.2s" repeatCount="indefinite"
       calcMode="discrete"
       keyTimes="0;0.03;0.06;0.09;0.12;0.15;0.18;0.21;0.24;0.27;0.30;0.34;0.38;0.42;0.46;1"
@@ -114,8 +114,8 @@
   </rect>
 
   <!-- linha de status -->
-  <g class="tag" fill="#34D399" opacity="0.55">
-    <text x="378" y="228">[ PYTHON ]   [ PHP ]   [ JAVASCRIPT ]   [ LINUX ]   [ MYSQL ]</text>
+  <g class="tag" fill="#C084FC" opacity="0.55">
+    <text x="306" y="228">[ PYTHON ]  [ PHP ]  [ JAVASCRIPT ]  [ TYPESCRIPT ]  [ LINUX ]  [ MYSQL ]</text>
   </g>
 
   <!-- scanline -->
