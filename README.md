@@ -70,6 +70,10 @@ carlos = {
 <h3 align="center">Back-end</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-A855F7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  &nbsp;
   <img src="https://img.shields.io/badge/PHP-7C3AED?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   &nbsp;
   <img src="https://img.shields.io/badge/Flask-A855F7?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -163,14 +167,23 @@ carlos = {
 
 ## Projetos em destaque
 
-| Projeto | Sobre |
-|:--------|:------|
-| **<a href="https://github.com/CarlosDuhring/talentbridge">talentbridge</a>** | Plataforma de recrutamento com IA: análise de currículos, avaliação de competências e execução de código isolada em containers.<br>`TypeScript` `Prisma` `Docker` |
-| **<a href="https://github.com/CarlosDuhring/TrueHate">TrueHate</a>** | Canal de denúncias internas com relatos anônimos ou identificados, painel administrativo e controle de usuários.<br>`Flask` `MySQL` `HTML5` `CSS3` |
-| **<a href="https://github.com/CarlosDuhring/umidade-esp32">umidade-esp32</a>** | Monitor de umidade do solo com ESP32 e dashboard web para acompanhamento em tempo real.<br>`C/C++` `Node.js` `PostgreSQL` |
-| **<a href="https://github.com/CarlosDuhring/Portfolio">Portfolio</a>** | Portfólio pessoal publicado no GitHub Pages.<br>`HTML5` `CSS3` `JavaScript` |
-| **<a href="https://github.com/CarlosDuhring/Crud-PHP">Crud-PHP</a>** | Sistema de cadastro com criação, leitura, atualização e exclusão integrado ao banco de dados.<br>`PHP` `MySQL` `Bootstrap` |
-| **<a href="https://github.com/CarlosDuhring/Celso_ramos">Celso_ramos</a>** | Trabalhos e exercícios desenvolvidos no ensino médio.<br>`HTML5` `CSS3` |
+<p align="center">
+  <a href="https://github.com/CarlosDuhring/talentbridge"><img width="420" alt="talentbridge" src="assets/proj-talentbridge.svg" /></a>
+  &nbsp;
+  <a href="https://github.com/CarlosDuhring/TrueHate"><img width="420" alt="TrueHate" src="assets/proj-TrueHate.svg" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CarlosDuhring/umidade-esp32"><img width="420" alt="umidade-esp32" src="assets/proj-umidade-esp32.svg" /></a>
+  &nbsp;
+  <a href="https://github.com/CarlosDuhring/Portfolio"><img width="420" alt="Portfolio" src="assets/proj-Portfolio.svg" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CarlosDuhring/Crud-PHP"><img width="420" alt="Crud-PHP" src="assets/proj-Crud-PHP.svg" /></a>
+  &nbsp;
+  <a href="https://github.com/CarlosDuhring/Celso_ramos"><img width="420" alt="Celso_ramos" src="assets/proj-Celso_ramos.svg" /></a>
+</p>
 
 ---
 
