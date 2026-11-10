@@ -40,10 +40,10 @@ const fmt = (n) => (n >= 1000 ? (n / 1000).toFixed(1).replace(".0", "") + "k" : 
   const F = "ui-monospace,SFMono-Regular,Menlo,Consolas,monospace";
 
   const stats = [
-    ["REPOSITÓRIOS", fmt(own.length)],
-    ["ESTRELAS", fmt(stars)],
-    ["SEGUIDORES", fmt(user.followers)],
-    ["LINGUAGENS", fmt(Object.keys(langs).length)],
+    ["REPOSITORIES", fmt(own.length)],
+    ["STARS", fmt(stars)],
+    ["FOLLOWERS", fmt(user.followers)],
+    ["LANGUAGES", fmt(Object.keys(langs).length)],
   ];
 
   const statEls = stats
@@ -92,7 +92,7 @@ ${statEls}
 
 <line x1="530" y1="62" x2="530" y2="196" stroke="#2a1240"/>
 
-<text x="560" y="44" font-family="${F}" font-size="10.5" letter-spacing="1.6" fill="#a855f7">LINGUAGENS POR VOLUME DE CÓDIGO</text>
+<text x="560" y="44" font-family="${F}" font-size="10.5" letter-spacing="1.6" fill="#a855f7">LANGUAGES BY CODE VOLUME</text>
 ${barEls}
 </svg>
 `;

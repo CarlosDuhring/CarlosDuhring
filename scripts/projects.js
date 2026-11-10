@@ -1,4 +1,4 @@
-// Gera os cartoes clicaveis dos projetos (assets/proj-<slug>.svg)
+// Gera os cartoes clicaveis dos projetos (assets/proj-<slug>.svg + .png)
 // Uso: node scripts/projects.js
 const fs = require("fs");
 
@@ -6,37 +6,37 @@ const projetos = [
   {
     slug: "talentbridge",
     nome: "talentbridge",
-    linhas: ["Plataforma de recrutamento com IA:", "análise de currículos e execução segura"],
+    linhas: ["AI recruiting platform: resume analysis", "and isolated code execution"],
     tags: ["TypeScript", "Prisma", "Docker"],
   },
   {
     slug: "TrueHate",
     nome: "TrueHate",
-    linhas: ["Canal de denúncias internas com painel", "administrativo e controle de usuários"],
+    linhas: ["Internal whistleblowing channel with", "admin panel and user management"],
     tags: ["Flask", "MySQL", "HTML5"],
   },
   {
     slug: "umidade-esp32",
     nome: "umidade-esp32",
-    linhas: ["Monitor de umidade do solo com ESP32", "e dashboard web em tempo real"],
+    linhas: ["Soil moisture monitor with ESP32", "and a real-time web dashboard"],
     tags: ["C/C++", "Node.js", "PostgreSQL"],
   },
   {
     slug: "Portfolio",
     nome: "Portfolio",
-    linhas: ["Portfólio pessoal no GitHub Pages", "com projetos e contato"],
+    linhas: ["Personal portfolio on GitHub Pages", "with projects and contact info"],
     tags: ["HTML5", "CSS3", "JavaScript"],
   },
   {
     slug: "Crud-PHP",
     nome: "Crud-PHP",
-    linhas: ["Sistema de cadastro com CRUD completo", "integrado ao banco de dados MySQL"],
+    linhas: ["Full CRUD registration system", "integrated with a MySQL database"],
     tags: ["PHP", "MySQL", "Bootstrap"],
   },
   {
     slug: "Celso_ramos",
     nome: "Celso_ramos",
-    linhas: ["Trabalhos e exercícios desenvolvidos", "durante o ensino médio"],
+    linhas: ["School assignments and exercises", "built during high school"],
     tags: ["HTML5", "CSS3"],
   },
 ];
@@ -58,7 +58,7 @@ for (const p of projetos) {
     })
     .join("\n  ");
 
-  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Projeto ${p.nome}">
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Project ${p.nome}">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#0b0413"/>

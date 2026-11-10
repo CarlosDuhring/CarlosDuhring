@@ -79,5 +79,5 @@
   </circle>
 
   <!-- etiqueta central -->
-  <text class="dim" x="600" y="30" text-anchor="middle" opacity="0.45">// TRANSMISSÃO ENCERRADA</text>
+  <text class="dim" x="600" y="30" text-anchor="middle" opacity="0.45">// END OF TRANSMISSION</text>
 </svg>

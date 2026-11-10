@@ -1,47 +1,47 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Carlos Duhring — Estudante de Desenvolvimento de Sistemas" />
+  <img src="assets/header.svg" width="100%" alt="Carlos Duhring — Software Development Student" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Sistemas;Python+%E2%80%A2+PHP+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;Linux+%E2%80%A2+Git+%E2%80%A2+MySQL;Crescer+%C3%A9+resultado+de+esfor%C3%A7o%2C+curiosidade+e+atitude." alt="Texto animado com a stack principal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=790&lines=Software+Development+Student;Python+%E2%80%A2+PHP+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;Linux+%E2%80%A2+Docker+%E2%80%A2+MySQL;Growing+is+the+result+of+effort%2C+curiosity+and+attitude." alt="Animated text with my main stack" />
 </div>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCarlosDuhring&label=visitas&labelColor=%230d1117&countColor=%23a855f7" alt="Contador de visitas" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCarlosDuhring&label=visitors&labelColor=%230d1117&countColor=%23a855f7" alt="Visitors counter" />
   &nbsp;
-  <a href="mailto:carlosduhring@gmail.com"><img src="https://img.shields.io/badge/Email-Fale_comigo-C084FC?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="mailto:carlosduhring@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-C084FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## Sobre mim
+## About me
 
-<img align="right" width="330" alt="Carlos Duhring em arte ASCII" src="assets/ascii-avatar.png" />
+<img align="right" width="330" alt="Carlos Duhring in ASCII art" src="assets/ascii-avatar.png" />
 
-Tenho **16 anos**, moro em **Joinville/SC** e curso o **Técnico em Desenvolvimento de Sistemas no SENAI** em paralelo ao ensino médio. Estudo desenvolvimento web e cibersegurança, com Python, PHP, JavaScript e TypeScript no dia a dia e Linux como sistema principal. Também faço cursos livres pela **Cisco NetAcad** e pelo **IFRS**.
+I'm **16 years old**, based in **Joinville, Brazil**, and I'm studying **Software Development at SENAI** alongside high school. I focus on web development and cybersecurity, working with Python, PHP, JavaScript and TypeScript day to day, with Linux as my main system. I also take courses through **Cisco NetAcad** and **IFRS**.
 
-- Cursando Técnico em Desenvolvimento de Sistemas — SENAI
-- Certificações Cisco NetAcad em cibersegurança e redes
-- Cursos IFRS de lógica de programação, HTML5 e inglês básico
-- Fora do código: hardware, games e música
+- Studying Software Development — SENAI (2nd year, 2026)
+- Cisco NetAcad certifications in cybersecurity and networking
+- IFRS courses in programming logic, HTML5 and basic English
+- Outside of code: hardware, games and music
 
 ```python
 carlos = {
-    "nome": "Carlos Eduardo Duhring",
-    "cidade": "Joinville, SC",
-    "formacao": [ "Técnico em Desenvolvimento de Sistemas — SENAI",
-                  "Ensino Médio — Escola Gov. Celso Ramos" ],
+    "name": "Carlos Eduardo Duhring",
+    "city": "Joinville, SC — Brazil",
+    "education": [ "Software Development — SENAI",
+                   "High School — Gov. Celso Ramos" ],
     "stack": ["Python", "PHP", "JavaScript", "TypeScript", "Java", "C"],
-    "estudando": ["Desenvolvimento Web", "Cibersegurança"],
-    "filosofia": "Crescer é resultado de esforço, curiosidade e atitude."
+    "learning": ["Web Development", "Cybersecurity"],
+    "philosophy": "Growth is the result of effort, curiosity and attitude."
 }
 ```
 
 ---
 
-## Habilidades & Stack
+## Skills & Stack
 
-<h3 align="center">Linguagens</h3>
+<h3 align="center">Languages</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -80,12 +80,12 @@ carlos = {
   &nbsp;
   <img src="https://img.shields.io/badge/Node.js-C084FC?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   &nbsp;
-  <img src="https://img.shields.io/badge/APIs_REST-6D28D9?style=for-the-badge&logo=json&logoColor=white" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/REST_APIs-6D28D9?style=for-the-badge&logo=json&logoColor=white" alt="REST APIs" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CRUD_%26_Auth-8B5CF6?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="CRUD e autenticação" />
+  <img src="https://img.shields.io/badge/CRUD_%26_Auth-8B5CF6?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="CRUD and authentication" />
 </p>
 
-<h3 align="center">Banco de Dados</h3>
+<h3 align="center">Databases</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-A855F7?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -95,7 +95,7 @@ carlos = {
   <img src="https://img.shields.io/badge/SQLite-6D28D9?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-<h3 align="center">Infra & Ferramentas</h3>
+<h3 align="center">Infra & Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -109,92 +109,92 @@ carlos = {
   <img src="https://img.shields.io/badge/Deploy-C084FC?style=for-the-badge&logo=pythonanywhere&logoColor=white" alt="Deploy" />
 </p>
 
-<h3 align="center">Cursos & Certificações</h3>
+<h3 align="center">Courses & Certifications</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Introdu%C3%A7%C3%A3o_%C3%A0_Ciberseguran%C3%A7a-Cisco_NetAcad-6D28D9?style=for-the-badge&logo=cisco&logoColor=white" alt="Introdução à Cibersegurança — Cisco NetAcad" />
+  <img src="https://img.shields.io/badge/Introduction_to_Cybersecurity-Cisco_NetAcad-6D28D9?style=for-the-badge&logo=cisco&logoColor=white" alt="Introduction to Cybersecurity — Cisco NetAcad" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Seguran%C3%A7a_de_Endpoint-Cisco_NetAcad-7C3AED?style=for-the-badge&logo=cisco&logoColor=white" alt="Segurança de Endpoint — Cisco NetAcad" />
+  <img src="https://img.shields.io/badge/Endpoint_Security-Cisco_NetAcad-7C3AED?style=for-the-badge&logo=cisco&logoColor=white" alt="Endpoint Security — Cisco NetAcad" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Defesa_de_Rede-Cisco_NetAcad-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white" alt="Defesa de Rede — Cisco NetAcad" />
+  <img src="https://img.shields.io/badge/Network_Defense-Cisco_NetAcad-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Defense — Cisco NetAcad" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/L%C3%B3gica_de_Programa%C3%A7%C3%A3o-IFRS-A855F7?style=for-the-badge&logo=academia&logoColor=white" alt="Lógica de Programação — IFRS" />
+  <img src="https://img.shields.io/badge/Programming_Logic-IFRS-A855F7?style=for-the-badge&logo=academia&logoColor=white" alt="Programming Logic — IFRS" />
   &nbsp;
   <img src="https://img.shields.io/badge/HTML5-IFRS-C084FC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 — IFRS" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Ingl%C3%AAs_B%C3%A1sico-IFRS-6D28D9?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Inglês Básico — IFRS" />
+  <img src="https://img.shields.io/badge/Basic_English-IFRS-6D28D9?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Basic English — IFRS" />
 </p>
 
 ---
 
-## Estatísticas do GitHub
+## GitHub Stats
 
 <p align="center">
-  <img width="100%" alt="Estatísticas do GitHub: repositórios, estrelas, seguidores e linguagens" src="assets/status.svg" />
+  <img width="100%" alt="GitHub stats: repositories, stars, followers and languages" src="assets/status.png" />
 </p>
 
 <p align="center">
-  <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=CarlosDuhring&locale=pt_BR&date_format=j%2Fn%2FY&hide_border=true&background=0D1117&stroke=A855F7&ring=C084FC&fire=A855F7&currStreakNum=F3E8FF&currStreakLabel=C084FC&sideNums=C9D1D9&sideLabels=A855F7&dates=6B7280" />
-</p>
-
----
-
-## Calendário de contribuições em 3D
-
-<p align="center">
-  <img width="85%" alt="Gráfico 3D do calendário de contribuições" src="https://raw.githubusercontent.com/CarlosDuhring/CarlosDuhring/output-3d-contrib/night.svg" />
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=CarlosDuhring&locale=en&date_format=j%2Fn%2FY&hide_border=true&background=0D1117&stroke=A855F7&ring=C084FC&fire=A855F7&currStreakNum=F3E8FF&currStreakLabel=C084FC&sideNums=C9D1D9&sideLabels=A855F7&dates=6B7280" />
 </p>
 
 ---
 
-## Contribuições em movimento
+## 3D contribution calendar
+
+<p align="center">
+  <img width="85%" alt="3D chart of the contribution calendar" src="https://raw.githubusercontent.com/CarlosDuhring/CarlosDuhring/output-3d-contrib/night.svg" />
+</p>
+
+---
+
+## Contributions in motion
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosDuhring/CarlosDuhring/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosDuhring/CarlosDuhring/output/github-contribution-grid-snake.svg" />
-    <img width="100%" alt="Cobrinha percorrendo o calendário de contribuições" src="https://raw.githubusercontent.com/CarlosDuhring/CarlosDuhring/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Snake moving across the contribution grid" src="https://raw.githubusercontent.com/CarlosDuhring/CarlosDuhring/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
 ---
 
-## Projetos em destaque
+## Featured projects
 
 <p align="center">
-  <a href="https://github.com/CarlosDuhring/talentbridge"><img width="360" alt="talentbridge — plataforma de recrutamento com IA" src="assets/proj-talentbridge.svg" /></a>
+  <a href="https://github.com/CarlosDuhring/talentbridge"><img width="360" alt="talentbridge — AI recruiting platform" src="assets/proj-talentbridge.png" /></a>
   &nbsp;
-  <a href="https://github.com/CarlosDuhring/TrueHate"><img width="360" alt="TrueHate — canal de denúncias internas" src="assets/proj-TrueHate.svg" /></a>
+  <a href="https://github.com/CarlosDuhring/TrueHate"><img width="360" alt="TrueHate — internal whistleblowing channel" src="assets/proj-TrueHate.png" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/CarlosDuhring/umidade-esp32"><img width="360" alt="umidade-esp32 — monitor de umidade com ESP32" src="assets/proj-umidade-esp32.svg" /></a>
+  <a href="https://github.com/CarlosDuhring/umidade-esp32"><img width="360" alt="umidade-esp32 — soil moisture monitor with ESP32" src="assets/proj-umidade-esp32.png" /></a>
   &nbsp;
-  <a href="https://github.com/CarlosDuhring/Portfolio"><img width="360" alt="Portfolio — portfólio pessoal" src="assets/proj-Portfolio.svg" /></a>
+  <a href="https://github.com/CarlosDuhring/Portfolio"><img width="360" alt="Portfolio — personal portfolio" src="assets/proj-Portfolio.png" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/CarlosDuhring/Crud-PHP"><img width="360" alt="Crud-PHP — sistema de cadastro em PHP" src="assets/proj-Crud-PHP.svg" /></a>
+  <a href="https://github.com/CarlosDuhring/Crud-PHP"><img width="360" alt="Crud-PHP — registration system in PHP" src="assets/proj-Crud-PHP.png" /></a>
   &nbsp;
-  <a href="https://github.com/CarlosDuhring/Celso_ramos"><img width="360" alt="Celso_ramos — trabalhos do ensino médio" src="assets/proj-Celso_ramos.svg" /></a>
+  <a href="https://github.com/CarlosDuhring/Celso_ramos"><img width="360" alt="Celso_ramos — high school assignments" src="assets/proj-Celso_ramos.png" /></a>
 </p>
 
 ---
 
-## Vamos conversar?
+## Let's connect
 
-<p align="center"><em>Aberto a conversas sobre tecnologia, desenvolvimento web, cibersegurança e novas ideias.</em></p>
+<p align="center"><em>Open to conversations about technology, web development, cybersecurity and new ideas.</em></p>
 
 <p align="center">
-  <a href="https://carlosduhring.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://carlosduhring.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/carlosduhring"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
   <a href="https://instagram.com/carlos_duhring"><img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   &nbsp;
-  <a href="mailto:carlosduhring@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="mailto:carlosduhring@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
   <a href="https://github.com/CarlosDuhring"><img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -202,5 +202,5 @@ carlos = {
 <br/>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Rodapé — fim da transmissão" />
+  <img src="assets/footer.svg" width="100%" alt="Footer — end of transmission" />
 </p>

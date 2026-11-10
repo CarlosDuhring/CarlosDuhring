@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="126" viewBox="0 0 360 126" role="img" aria-label="Projeto talentbridge">
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="126" viewBox="0 0 360 126" role="img" aria-label="Project talentbridge">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#0b0413"/>
@@ -16,8 +16,8 @@
 <text x="16" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" font-weight="700" fill="#f3e8ff">talentbridge</text>
 <text x="344" y="29" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#8b5cf6">repo &#8599;</text>
 
-<text x="16" y="55" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#b79ecf">Plataforma de recrutamento com IA:</text>
-<text x="16" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#b79ecf">análise de currículos e execução segura</text>
+<text x="16" y="55" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#b79ecf">AI recruiting platform: resume analysis</text>
+<text x="16" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#b79ecf">and isolated code execution</text>
 
 <g>
     <rect x="16" y="86" width="79" height="19" rx="9.5" fill="#1b0b2e" stroke="#3b0764"/>
