@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-<img align="right" width="330" alt="Carlos Duhring em arte ASCII" src="ascii-avatar.svg" />
+<img align="right" width="340" alt="Terminal do Carlos Duhring: whoami, formação, stack e status" src="ascii-avatar.svg" />
 
 Tenho **16 anos**, moro em **Joinville/SC** e curso o **Técnico em Desenvolvimento de Sistemas no SENAI** em paralelo ao ensino médio. Estudo desenvolvimento web e cibersegurança, com Python, PHP, JavaScript e TypeScript no dia a dia e Linux como sistema principal. Também faço cursos livres pela **Cisco NetAcad** e pelo **IFRS**.
 
@@ -74,14 +74,28 @@ carlos = {
 <h3 align="center">Back-end</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-6D28D9?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Express-8B5CF6?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PHP-7C3AED?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   &nbsp;
   <img src="https://img.shields.io/badge/Flask-A855F7?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Node.js-C084FC?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/APIs_REST-6D28D9?style=for-the-badge&logo=json&logoColor=white" alt="APIs REST" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CRUD_%26_Auth-8B5CF6?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="CRUD e autenticação" />
 </p>
 
-<h3 align="center">Ferramentas & Banco de Dados</h3>
+<h3 align="center">Banco de Dados</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-A855F7?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-C084FC?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQLite-6D28D9?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+<h3 align="center">Infra & Ferramentas</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -90,11 +104,9 @@ carlos = {
   &nbsp;
   <img src="https://img.shields.io/badge/Linux-8B5CF6?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-A855F7?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-A855F7?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-C084FC?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Docker-6D28D9?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Deploy-C084FC?style=for-the-badge&logo=pythonanywhere&logoColor=white" alt="Deploy" />
 </p>
 
 <h3 align="center">Cursos & Certificações</h3>
