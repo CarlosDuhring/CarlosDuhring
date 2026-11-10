@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="430" height="126" viewBox="0 0 430 126" role="img" aria-label="Projeto talentbridge">
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="132" viewBox="0 0 430 132" role="img" aria-label="Projeto talentbridge">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#0b0413"/>
@@ -10,25 +10,25 @@
   </radialGradient>
 </defs>
 
-<rect x="0.5" y="0.5" width="429" height="125" rx="12" fill="url(#bg)" stroke="#2a1240"/>
-<rect x="0.5" y="0.5" width="429" height="125" rx="12" fill="url(#halo)"/>
+<rect x="0.5" y="0.5" width="429" height="131" rx="12" fill="url(#bg)" stroke="#2a1240"/>
+<rect x="0.5" y="0.5" width="429" height="131" rx="12" fill="url(#halo)"/>
 
-<text x="18" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="#f3e8ff">talentbridge</text>
+<text x="18" y="31" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#f3e8ff">talentbridge</text>
 <text x="412" y="30" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#7c3aed">repo &#8599;</text>
 
-<text x="18" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#b79ecf">Plataforma de recrutamento com IA: análise</text>
-<text x="18" y="71" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#b79ecf">de currículos e execução de código isolada</text>
+<text x="18" y="57" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#b79ecf">Plataforma de recrutamento com IA: análise</text>
+<text x="18" y="76" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#b79ecf">de currículos e execução de código isolada</text>
 
 <g>
-    <rect x="18" y="88" width="79" height="19" rx="9.5" fill="#1b0b2e" stroke="#3b0764"/>
-    <text x="57.5" y="101" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#d8b4fe">TypeScript</text>
+    <rect x="18" y="92" width="84" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="60" y="106" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">TypeScript</text>
   </g>
   <g>
-    <rect x="105" y="88" width="55" height="19" rx="9.5" fill="#1b0b2e" stroke="#3b0764"/>
-    <text x="132.5" y="101" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#d8b4fe">Prisma</text>
+    <rect x="110" y="92" width="59" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="139.5" y="106" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">Prisma</text>
   </g>
   <g>
-    <rect x="168" y="88" width="55" height="19" rx="9.5" fill="#1b0b2e" stroke="#3b0764"/>
-    <text x="195.5" y="101" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#d8b4fe">Docker</text>
+    <rect x="177" y="92" width="59" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="206.5" y="106" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">Docker</text>
   </g>
 </svg>
