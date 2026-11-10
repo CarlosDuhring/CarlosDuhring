@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-<img align="right" width="340" alt="Terminal do Carlos Duhring: whoami, formação, stack e status" src="ascii-avatar.svg" />
+<img align="right" width="330" alt="Carlos Duhring em arte ASCII" src="ascii-avatar.svg" />
 
 Tenho **16 anos**, moro em **Joinville/SC** e curso o **Técnico em Desenvolvimento de Sistemas no SENAI** em paralelo ao ensino médio. Estudo desenvolvimento web e cibersegurança, com Python, PHP, JavaScript e TypeScript no dia a dia e Linux como sistema principal. Também faço cursos livres pela **Cisco NetAcad** e pelo **IFRS**.
 
@@ -63,10 +63,6 @@ carlos = {
   <img src="https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   &nbsp;
   <img src="https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/React-A855F7?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-C084FC?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   &nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-A855F7?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
