@@ -164,7 +164,21 @@ carlos = {
 ## Projetos em destaque
 
 <p align="center">
-  <img width="100%" alt="Projetos em destaque: talentbridge, TrueHate, umidade-esp32, Portfolio, Crud-PHP e Celso_ramos" src="assets/projetos.svg" />
+  <a href="https://github.com/CarlosDuhring/talentbridge"><img width="360" alt="talentbridge — plataforma de recrutamento com IA" src="assets/proj-talentbridge.svg" /></a>
+  &nbsp;
+  <a href="https://github.com/CarlosDuhring/TrueHate"><img width="360" alt="TrueHate — canal de denúncias internas" src="assets/proj-TrueHate.svg" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CarlosDuhring/umidade-esp32"><img width="360" alt="umidade-esp32 — monitor de umidade com ESP32" src="assets/proj-umidade-esp32.svg" /></a>
+  &nbsp;
+  <a href="https://github.com/CarlosDuhring/Portfolio"><img width="360" alt="Portfolio — portfólio pessoal" src="assets/proj-Portfolio.svg" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CarlosDuhring/Crud-PHP"><img width="360" alt="Crud-PHP — sistema de cadastro em PHP" src="assets/proj-Crud-PHP.svg" /></a>
+  &nbsp;
+  <a href="https://github.com/CarlosDuhring/Celso_ramos"><img width="360" alt="Celso_ramos — trabalhos do ensino médio" src="assets/proj-Celso_ramos.svg" /></a>
 </p>
 
 ---
