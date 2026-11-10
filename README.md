@@ -144,11 +144,7 @@ carlos = {
 ## Calendário de contribuições em 3D
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosDuhring/CarlosDuhring/output-3d-contrib/night.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosDuhring/CarlosDuhring/output-3d-contrib/day.svg" />
-    <img width="85%" alt="Gráfico 3D do calendário de contribuições" src="https://raw.githubusercontent.com/CarlosDuhring/CarlosDuhring/output-3d-contrib/night.svg" />
-  </picture>
+  <img width="85%" alt="Gráfico 3D do calendário de contribuições" src="https://raw.githubusercontent.com/CarlosDuhring/CarlosDuhring/output-3d-contrib/night.svg" />
 </p>
 
 ---
@@ -168,21 +164,7 @@ carlos = {
 ## Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/CarlosDuhring/talentbridge"><img width="420" alt="talentbridge" src="assets/proj-talentbridge.svg" /></a>
-  &nbsp;
-  <a href="https://github.com/CarlosDuhring/TrueHate"><img width="420" alt="TrueHate" src="assets/proj-TrueHate.svg" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/CarlosDuhring/umidade-esp32"><img width="420" alt="umidade-esp32" src="assets/proj-umidade-esp32.svg" /></a>
-  &nbsp;
-  <a href="https://github.com/CarlosDuhring/Portfolio"><img width="420" alt="Portfolio" src="assets/proj-Portfolio.svg" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/CarlosDuhring/Crud-PHP"><img width="420" alt="Crud-PHP" src="assets/proj-Crud-PHP.svg" /></a>
-  &nbsp;
-  <a href="https://github.com/CarlosDuhring/Celso_ramos"><img width="420" alt="Celso_ramos" src="assets/proj-Celso_ramos.svg" /></a>
+  <img width="100%" alt="Projetos em destaque: talentbridge, TrueHate, umidade-esp32, Portfolio, Crud-PHP e Celso_ramos" src="assets/projetos.svg" />
 </p>
 
 ---

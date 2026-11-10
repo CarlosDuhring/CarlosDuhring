@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="864" height="444" viewBox="0 0 864 444" role="img" aria-label="Projetos em destaque de Carlos Duhring">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b0413"/>
+    <stop offset="1" stop-color="#170a2b"/>
+  </linearGradient>
+  <radialGradient id="halo0" cx="0.85" cy="0" r="0.9">
+    <stop offset="0" stop-color="#a855f7" stop-opacity="0.18"/>
+    <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="halo1" cx="0.85" cy="0" r="0.9">
+    <stop offset="0" stop-color="#a855f7" stop-opacity="0.18"/>
+    <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="halo2" cx="0.85" cy="0" r="0.9">
+    <stop offset="0" stop-color="#a855f7" stop-opacity="0.18"/>
+    <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="halo3" cx="0.85" cy="0" r="0.9">
+    <stop offset="0" stop-color="#a855f7" stop-opacity="0.18"/>
+    <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="halo4" cx="0.85" cy="0" r="0.9">
+    <stop offset="0" stop-color="#a855f7" stop-opacity="0.18"/>
+    <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="halo5" cx="0.85" cy="0" r="0.9">
+    <stop offset="0" stop-color="#a855f7" stop-opacity="0.18"/>
+    <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+
+<g>
+  <rect x="0.5" y="0.5" width="419" height="131" rx="12" fill="url(#bg)" stroke="#2a1240"/>
+  <rect x="0.5" y="0.5" width="419" height="131" rx="12" fill="url(#halo0)"/>
+
+  <text x="18" y="31" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#f3e8ff">talentbridge</text>
+  <text x="402" y="30" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8b5cf6">repo &#8599;</text>
+
+  <text x="18" y="57" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#b79ecf">Plataforma de recrutamento com IA: análise</text>
+  <text x="18" y="76" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#b79ecf">de currículos e execução de código isolada</text>
+
+  <g>
+    <rect x="18" y="92" width="84" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="60" y="106" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">TypeScript</text>
+  </g>
+  <g>
+    <rect x="110" y="92" width="59" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="139.5" y="106" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">Prisma</text>
+  </g>
+  <g>
+    <rect x="177" y="92" width="59" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="206.5" y="106" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">Docker</text>
+  </g>
+</g>
+
+<g>
+  <rect x="444.5" y="0.5" width="419" height="131" rx="12" fill="url(#bg)" stroke="#2a1240"/>
+  <rect x="444.5" y="0.5" width="419" height="131" rx="12" fill="url(#halo1)"/>
+
+  <text x="462" y="31" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#f3e8ff">TrueHate</text>
+  <text x="846" y="30" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8b5cf6">repo &#8599;</text>
+
+  <text x="462" y="57" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#b79ecf">Canal de denúncias internas com painel</text>
+  <text x="462" y="76" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#b79ecf">administrativo e controle de usuários</text>
+
+  <g>
+    <rect x="462" y="92" width="53" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="488.5" y="106" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">Flask</text>
+  </g>
+  <g>
+    <rect x="523" y="92" width="53" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="549.5" y="106" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">MySQL</text>
+  </g>
+  <g>
+    <rect x="584" y="92" width="53" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="610.5" y="106" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">HTML5</text>
+  </g>
+</g>
+
+<g>
+  <rect x="0.5" y="156.5" width="419" height="131" rx="12" fill="url(#bg)" stroke="#2a1240"/>
+  <rect x="0.5" y="156.5" width="419" height="131" rx="12" fill="url(#halo2)"/>
+
+  <text x="18" y="187" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#f3e8ff">umidade-esp32</text>
+  <text x="402" y="186" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8b5cf6">repo &#8599;</text>
+
+  <text x="18" y="213" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#b79ecf">Monitor de umidade do solo com ESP32</text>
+  <text x="18" y="232" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#b79ecf">e dashboard web em tempo real</text>
+
+  <g>
+    <rect x="18" y="248" width="53" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="44.5" y="262" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">C/C++</text>
+  </g>
+  <g>
+    <rect x="79" y="248" width="65" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="111.5" y="262" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">Node.js</text>
+  </g>
+  <g>
+    <rect x="152" y="248" width="84" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="194" y="262" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">PostgreSQL</text>
+  </g>
+</g>
+
+<g>
+  <rect x="444.5" y="156.5" width="419" height="131" rx="12" fill="url(#bg)" stroke="#2a1240"/>
+  <rect x="444.5" y="156.5" width="419" height="131" rx="12" fill="url(#halo3)"/>
+
+  <text x="462" y="187" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#f3e8ff">Portfolio</text>
+  <text x="846" y="186" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8b5cf6">repo &#8599;</text>
+
+  <text x="462" y="213" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#b79ecf">Portfólio pessoal publicado no GitHub Pages</text>
+  <text x="462" y="232" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#b79ecf">com projetos e contato</text>
+
+  <g>
+    <rect x="462" y="248" width="53" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="488.5" y="262" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">HTML5</text>
+  </g>
+  <g>
+    <rect x="523" y="248" width="47" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="546.5" y="262" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">CSS3</text>
+  </g>
+  <g>
+    <rect x="578" y="248" width="84" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="620" y="262" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">JavaScript</text>
+  </g>
+</g>
+
+<g>
+  <rect x="0.5" y="312.5" width="419" height="131" rx="12" fill="url(#bg)" stroke="#2a1240"/>
+  <rect x="0.5" y="312.5" width="419" height="131" rx="12" fill="url(#halo4)"/>
+
+  <text x="18" y="343" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#f3e8ff">Crud-PHP</text>
+  <text x="402" y="342" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8b5cf6">repo &#8599;</text>
+
+  <text x="18" y="369" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#b79ecf">Sistema de cadastro com CRUD completo</text>
+  <text x="18" y="388" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#b79ecf">integrado ao banco de dados MySQL</text>
+
+  <g>
+    <rect x="18" y="404" width="41" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="38.5" y="418" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">PHP</text>
+  </g>
+  <g>
+    <rect x="67" y="404" width="53" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="93.5" y="418" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">MySQL</text>
+  </g>
+  <g>
+    <rect x="128" y="404" width="78" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="167" y="418" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">Bootstrap</text>
+  </g>
+</g>
+
+<g>
+  <rect x="444.5" y="312.5" width="419" height="131" rx="12" fill="url(#bg)" stroke="#2a1240"/>
+  <rect x="444.5" y="312.5" width="419" height="131" rx="12" fill="url(#halo5)"/>
+
+  <text x="462" y="343" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#f3e8ff">Celso_ramos</text>
+  <text x="846" y="342" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#8b5cf6">repo &#8599;</text>
+
+  <text x="462" y="369" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#b79ecf">Trabalhos e exercícios desenvolvidos</text>
+  <text x="462" y="388" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#b79ecf">durante o ensino médio</text>
+
+  <g>
+    <rect x="462" y="404" width="53" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="488.5" y="418" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">HTML5</text>
+  </g>
+  <g>
+    <rect x="523" y="404" width="47" height="20" rx="10" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="546.5" y="418" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" fill="#d8b4fe">CSS3</text>
+  </g>
+</g>
+</svg>
