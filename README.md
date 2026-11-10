@@ -31,7 +31,7 @@ carlos = {
     "cidade": "Joinville, SC",
     "formacao": [ "Técnico em Desenvolvimento de Sistemas — SENAI",
                   "Ensino Médio — Escola Gov. Celso Ramos" ],
-    "stack": ["Python", "PHP", "JavaScript", "TypeScript"],
+    "stack": ["Python", "PHP", "JavaScript", "TypeScript", "Java", "C"],
     "estudando": ["Desenvolvimento Web", "Cibersegurança"],
     "filosofia": "Crescer é resultado de esforço, curiosidade e atitude."
 }
@@ -64,7 +64,21 @@ carlos = {
   &nbsp;
   <img src="https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   &nbsp;
+  <img src="https://img.shields.io/badge/React-A855F7?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Next.js-C084FC?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-A855F7?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+<h3 align="center">Back-end</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-6D28D9?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Express-8B5CF6?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Flask-A855F7?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
 <h3 align="center">Ferramentas & Banco de Dados</h3>
@@ -77,6 +91,10 @@ carlos = {
   <img src="https://img.shields.io/badge/Linux-8B5CF6?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   &nbsp;
   <img src="https://img.shields.io/badge/MySQL-A855F7?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-C084FC?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Docker-6D28D9?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 <h3 align="center">Cursos & Certificações</h3>
