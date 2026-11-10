@@ -23,6 +23,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: conf/github-profile-3d-contrib.json
+
+      - name: Clarear textos do grafico (tema escuro)
+        run: |
+          for f in profile-3d-contrib/*.svg; do
+            sed -i 's|</style>|.fill-fg { fill: #d8c3f0; }</style>|' "$f"
+          done
+
       - name: Push SVGs to output-3d-contrib branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
