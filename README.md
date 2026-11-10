@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-<img align="right" width="330" alt="Carlos Duhring em arte ASCII" src="ascii-avatar.svg" />
+<img align="right" width="330" alt="Carlos Duhring em arte ASCII" src="assets/ascii-avatar.png" />
 
 Tenho **16 anos**, moro em **Joinville/SC** e curso o **Técnico em Desenvolvimento de Sistemas no SENAI** em paralelo ao ensino médio. Estudo desenvolvimento web e cibersegurança, com Python, PHP, JavaScript e TypeScript no dia a dia e Linux como sistema principal. Também faço cursos livres pela **Cisco NetAcad** e pelo **IFRS**.
 
@@ -128,9 +128,7 @@ carlos = {
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=CarlosDuhring&locale=pt-br&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&title_color=C084FC&icon_color=A855F7&text_color=C9D1D9&bg_color=0D1117" />
-  &nbsp;
-  <img height="170" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDuhring&locale=pt-br&layout=compact&langs_count=10&hide_border=true&title_color=C084FC&text_color=C9D1D9&bg_color=0D1117" />
+  <img width="100%" alt="Estatísticas do GitHub: repositórios, estrelas, seguidores e linguagens" src="assets/status.svg" />
 </p>
 
 <p align="center">
@@ -165,23 +163,14 @@ carlos = {
 
 ## Projetos em destaque
 
-<p align="center">
-  <a href="https://github.com/CarlosDuhring/talentbridge"><img width="420" alt="talentbridge" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosDuhring&repo=talentbridge&hide_border=true&title_color=C084FC&icon_color=A855F7&text_color=C9D1D9&bg_color=0D1117" /></a>
-  &nbsp;
-  <a href="https://github.com/CarlosDuhring/TrueHate"><img width="420" alt="TrueHate" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosDuhring&repo=TrueHate&hide_border=true&title_color=C084FC&icon_color=A855F7&text_color=C9D1D9&bg_color=0D1117" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/CarlosDuhring/Portfolio"><img width="420" alt="Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosDuhring&repo=Portfolio&hide_border=true&title_color=C084FC&icon_color=A855F7&text_color=C9D1D9&bg_color=0D1117" /></a>
-  &nbsp;
-  <a href="https://github.com/CarlosDuhring/Celso_ramos"><img width="420" alt="Celso_ramos" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosDuhring&repo=Celso_ramos&hide_border=true&title_color=C084FC&icon_color=A855F7&text_color=C9D1D9&bg_color=0D1117" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/CarlosDuhring/Crud-PHP"><img width="420" alt="Crud-PHP" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosDuhring&repo=Crud-PHP&hide_border=true&title_color=C084FC&icon_color=A855F7&text_color=C9D1D9&bg_color=0D1117" /></a>
-  &nbsp;
-  <a href="https://github.com/CarlosDuhring/ExercicioCRUD"><img width="420" alt="ExercicioCRUD" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosDuhring&repo=ExercicioCRUD&hide_border=true&title_color=C084FC&icon_color=A855F7&text_color=C9D1D9&bg_color=0D1117" /></a>
-</p>
+| Projeto | Sobre |
+|:--------|:------|
+| **<a href="https://github.com/CarlosDuhring/talentbridge">talentbridge</a>** | Plataforma de recrutamento com IA: análise de currículos, avaliação de competências e execução de código isolada em containers.<br>`TypeScript` `Prisma` `Docker` |
+| **<a href="https://github.com/CarlosDuhring/TrueHate">TrueHate</a>** | Canal de denúncias internas com relatos anônimos ou identificados, painel administrativo e controle de usuários.<br>`Flask` `MySQL` `HTML5` `CSS3` |
+| **<a href="https://github.com/CarlosDuhring/umidade-esp32">umidade-esp32</a>** | Monitor de umidade do solo com ESP32 e dashboard web para acompanhamento em tempo real.<br>`C/C++` `Node.js` `PostgreSQL` |
+| **<a href="https://github.com/CarlosDuhring/Portfolio">Portfolio</a>** | Portfólio pessoal publicado no GitHub Pages.<br>`HTML5` `CSS3` `JavaScript` |
+| **<a href="https://github.com/CarlosDuhring/Crud-PHP">Crud-PHP</a>** | Sistema de cadastro com criação, leitura, atualização e exclusão integrado ao banco de dados.<br>`PHP` `MySQL` `Bootstrap` |
+| **<a href="https://github.com/CarlosDuhring/Celso_ramos">Celso_ramos</a>** | Trabalhos e exercícios desenvolvidos no ensino médio.<br>`HTML5` `CSS3` |
 
 ---
 
