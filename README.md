@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Carlos Duhring — Software Development Student" />
+  <img src="assets/header.svg" width="100%" alt="Carlos Duhring — Full Stack Developer" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=790&lines=Software+Development+Student;Python+%E2%80%A2+PHP+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;Linux+%E2%80%A2+Docker+%E2%80%A2+MySQL;Growing+is+the+result+of+effort%2C+curiosity+and+attitude." alt="Animated text with my main stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=790&lines=Full+Stack+Developer;Python+%E2%80%A2+PHP+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;Linux+%E2%80%A2+Docker+%E2%80%A2+MySQL;Growing+is+the+result+of+effort%2C+curiosity+and+attitude." alt="Animated text with my main stack" />
 </div>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 <img align="right" width="330" alt="Carlos Duhring in ASCII art" src="assets/ascii-avatar.png" />
 
-I'm **16 years old**, based in **Joinville, Brazil**, and I'm studying **Software Development at SENAI** alongside high school. I focus on web development and cybersecurity, working with Python, PHP, JavaScript and TypeScript day to day, with Linux as my main system. I also take courses through **Cisco NetAcad** and **IFRS**.
+I'm **16 years old**, based in **Joinville, Brazil**. I build web applications end to end with **Python, PHP, JavaScript and TypeScript**, with **Linux** as my main system, and I also work with **cybersecurity** — certified by **Cisco NetAcad** and **IFRS**.
 
-- Studying Software Development — SENAI (2nd year, 2026)
+- Full stack web developer — Python, PHP, JavaScript and TypeScript
 - Cisco NetAcad certifications in cybersecurity and networking
 - IFRS courses in programming logic, HTML5 and basic English
 - Outside of code: hardware, games and music
@@ -32,7 +32,7 @@ carlos = {
     "education": [ "Software Development — SENAI",
                    "High School — Gov. Celso Ramos" ],
     "stack": ["Python", "PHP", "JavaScript", "TypeScript", "Java", "C"],
-    "learning": ["Web Development", "Cybersecurity"],
+    "focus": ["Web Development", "Cybersecurity"],
     "philosophy": "Growth is the result of effort, curiosity and attitude."
 }
 ```
