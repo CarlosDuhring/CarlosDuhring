@@ -6,7 +6,14 @@ const USER = "CarlosDuhring";
 const OUT = "assets/status.svg";
 
 const API = "https://api.github.com";
-const H = { headers: { "User-Agent": USER, Accept: "application/vnd.github+json" } };
+const TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN || "";
+const H = {
+  headers: {
+    "User-Agent": USER,
+    Accept: "application/vnd.github+json",
+    ...(TOKEN ? { Authorization: `Bearer ${TOKEN}` } : {}),
+  },
+};
 
 async function get(url) {
   const r = await fetch(url, H);
@@ -39,11 +46,17 @@ const fmt = (n) => (n >= 1000 ? (n / 1000).toFixed(1).replace(".0", "") + "k" : 
   const W = 1000, H2 = 210;
   const F = "ui-monospace,SFMono-Regular,Menlo,Consolas,monospace";
 
+  let commits = 0;
+  try {
+    const sc = await get(`${API}/search/commits?q=author:${USER}&per_page=1`);
+    commits = sc.total_count || 0;
+  } catch (e) {}
+
   const stats = [
     ["REPOSITORIES", fmt(own.length)],
     ["STARS", fmt(stars)],
     ["FOLLOWERS", fmt(user.followers)],
-    ["LANGUAGES", fmt(Object.keys(langs).length)],
+    ["COMMITS", fmt(commits)],
   ];
 
   const statEls = stats

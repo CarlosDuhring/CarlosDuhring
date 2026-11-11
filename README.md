@@ -131,7 +131,7 @@ carlos = {
 ## GitHub Stats
 
 <p align="center">
-  <img width="100%" alt="GitHub stats: repositories, stars, followers and languages" src="assets/status.png" />
+  <img width="100%" alt="GitHub stats: repositories, stars, followers and languages" src="assets/status.svg" />
 </p>
 
 <p align="center">
