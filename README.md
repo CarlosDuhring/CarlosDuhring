@@ -76,8 +76,7 @@ carlos = {
   &nbsp;
   <img src="https://img.shields.io/badge/PHP-7C3AED?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Flask-A855F7?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  &nbsp;
+&nbsp;
   <img src="https://img.shields.io/badge/Node.js-C084FC?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   &nbsp;
   <img src="https://img.shields.io/badge/REST_APIs-6D28D9?style=for-the-badge&logo=json&logoColor=white" alt="REST APIs" />

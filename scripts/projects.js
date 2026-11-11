@@ -13,7 +13,7 @@ const projetos = [
     slug: "TrueHate",
     nome: "TrueHate",
     linhas: ["Internal whistleblowing channel with", "admin panel and user management"],
-    tags: ["Flask", "MySQL", "HTML5"],
+    tags: ["Python", "MySQL", "HTML5"],
   },
   {
     slug: "umidade-esp32",

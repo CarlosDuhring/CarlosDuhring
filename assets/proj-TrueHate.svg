@@ -20,15 +20,15 @@
 <text x="16" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#b79ecf">admin panel and user management</text>
 
 <g>
-    <rect x="16" y="86" width="50" height="19" rx="9.5" fill="#1b0b2e" stroke="#3b0764"/>
-    <text x="41" y="99" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#d8b4fe">Flask</text>
+    <rect x="16" y="86" width="55" height="19" rx="9.5" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="43.5" y="99" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#d8b4fe">Python</text>
   </g>
   <g>
-    <rect x="73" y="86" width="50" height="19" rx="9.5" fill="#1b0b2e" stroke="#3b0764"/>
-    <text x="98" y="99" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#d8b4fe">MySQL</text>
+    <rect x="78" y="86" width="50" height="19" rx="9.5" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="103" y="99" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#d8b4fe">MySQL</text>
   </g>
   <g>
-    <rect x="130" y="86" width="50" height="19" rx="9.5" fill="#1b0b2e" stroke="#3b0764"/>
-    <text x="155" y="99" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#d8b4fe">HTML5</text>
+    <rect x="135" y="86" width="50" height="19" rx="9.5" fill="#1b0b2e" stroke="#3b0764"/>
+    <text x="160" y="99" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#d8b4fe">HTML5</text>
   </g>
 </svg>
