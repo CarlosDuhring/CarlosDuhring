@@ -30,13 +30,13 @@ const projetos = [
   {
     slug: "Crud-PHP",
     nome: "Crud-PHP",
-    linhas: ["Full CRUD registration system", "integrated with a MySQL database"],
-    tags: ["PHP", "MySQL", "Bootstrap"],
+    linhas: ["Opinion board with authentication", "built in PHP and MySQL"],
+    tags: ["PHP", "MySQL", "CSS3"],
   },
   {
     slug: "Celso_ramos",
     nome: "Celso_ramos",
-    linhas: ["School assignments and exercises", "built during high school"],
+    linhas: ["Informational portal for a public school", "with documents and daily routines"],
     tags: ["HTML5", "CSS3"],
   },
 ];

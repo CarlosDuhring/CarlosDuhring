@@ -16,8 +16,8 @@
 <text x="16" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" font-weight="700" fill="#f3e8ff">Celso_ramos</text>
 <text x="344" y="29" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" fill="#8b5cf6">repo &#8599;</text>
 
-<text x="16" y="55" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#b79ecf">School assignments and exercises</text>
-<text x="16" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#b79ecf">built during high school</text>
+<text x="16" y="55" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#b79ecf">Informational portal for a public school</text>
+<text x="16" y="73" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#b79ecf">with documents and daily routines</text>
 
 <g>
     <rect x="16" y="86" width="50" height="19" rx="9.5" fill="#1b0b2e" stroke="#3b0764"/>

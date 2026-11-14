@@ -175,9 +175,9 @@ carlos = {
 </p>
 
 <p align="center">
-  <a href="https://github.com/CarlosDuhring/Crud-PHP"><img width="360" alt="Crud-PHP — registration system in PHP" src="assets/proj-Crud-PHP.png" /></a>
+  <a href="https://github.com/CarlosDuhring/Crud-PHP"><img width="360" alt="Crud-PHP - opinion board in PHP and MySQL" src="assets/proj-Crud-PHP.png" /></a>
   &nbsp;
-  <a href="https://github.com/CarlosDuhring/Celso_ramos"><img width="360" alt="Celso_ramos — high school assignments" src="assets/proj-Celso_ramos.png" /></a>
+  <a href="https://github.com/CarlosDuhring/Celso_ramos"><img width="360" alt="Celso_ramos - public school portal" src="assets/proj-Celso_ramos.png" /></a>
 </p>
 
 ---
