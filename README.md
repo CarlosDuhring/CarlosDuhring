@@ -9,6 +9,8 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCarlosDuhring&label=visitors&labelColor=%230d1117&countColor=%23a855f7" alt="Visitors counter" />
   &nbsp;
+  <a href="https://carlosduhring.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
   <a href="mailto:carlosduhring@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-C084FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -160,25 +162,21 @@ carlos = {
 
 ---
 
-## Featured projects
+## Portfolio
 
 <p align="center">
-  <a href="https://github.com/CarlosDuhring/talentbridge"><img width="360" alt="talentbridge — AI recruiting platform" src="assets/proj-talentbridge.png" /></a>
-  &nbsp;
-  <a href="https://github.com/CarlosDuhring/TrueHate"><img width="360" alt="TrueHate — internal whistleblowing channel" src="assets/proj-TrueHate.png" /></a>
+  <a href="https://carlosduhring.github.io/Portfolio/">
+    <img src="assets/portfolio-preview.jpg" width="100%" alt="Carlos Duhring portfolio website" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/CarlosDuhring/umidade-esp32"><img width="360" alt="umidade-esp32 — soil moisture monitor with ESP32" src="assets/proj-umidade-esp32.png" /></a>
+  <a href="https://carlosduhring.github.io/Portfolio/"><img src="https://img.shields.io/badge/open_the_site-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open the portfolio" /></a>
   &nbsp;
-  <a href="https://github.com/CarlosDuhring/Portfolio"><img width="360" alt="Portfolio — personal portfolio" src="assets/proj-Portfolio.png" /></a>
+  <a href="https://github.com/CarlosDuhring/Portfolio"><img src="https://img.shields.io/badge/source_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source code" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/CarlosDuhring/Crud-PHP"><img width="360" alt="Crud-PHP - opinion board in PHP and MySQL" src="assets/proj-Crud-PHP.png" /></a>
-  &nbsp;
-  <a href="https://github.com/CarlosDuhring/Celso_ramos"><img width="360" alt="Celso_ramos - public school portal" src="assets/proj-Celso_ramos.png" /></a>
-</p>
+<p align="center"><em>Bilingual portfolio (PT/EN) built with vanilla HTML, CSS and JavaScript - projects, stack, certifications and contact.</em></p>
 
 ---
 
