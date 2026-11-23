@@ -118,7 +118,20 @@ carlos = {
   <img src="https://img.shields.io/badge/Endpoint_Security-Cisco_NetAcad-7C3AED?style=for-the-badge&logo=cisco&logoColor=white" alt="Endpoint Security — Cisco NetAcad" />
   &nbsp;
   <img src="https://img.shields.io/badge/Network_Defense-Cisco_NetAcad-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Defense — Cisco NetAcad" />
-</p>
+
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python_Essentials_1-Cisco_NetAcad-A855F7?style=for-the-badge&logo=cisco&logoColor=white" alt="Python Essentials 1 - Cisco NetAcad" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Introduction_to_Modern_AI-Cisco_NetAcad-C084FC?style=for-the-badge&logo=cisco&logoColor=white" alt="Introduction to Modern AI - Cisco NetAcad" /></p>
+
+<table align="center">
+  <tr><th>Certification</th><th>Issuer</th><th>Issued</th></tr>
+  <tr><td>Python Essentials 1 (Fundamentos do Python 1)</td><td>Cisco Networking Academy</td><td>Nov 2026</td></tr>
+  <tr><td>Introduction to Modern AI (Introducao a IA moderna - AcademyDay2026)</td><td>Cisco Networking Academy</td><td>Nov 2026</td></tr>
+  <tr><td>Introduction to Cybersecurity (Introducao a Ciberseguranca)</td><td>Cisco Networking Academy</td><td>Jun 2026</td></tr>
+  <tr><td>Endpoint Security (Seguranca de Endpoint)</td><td>Cisco Networking Academy</td><td>Nov 2025</td></tr>
+  <tr><td>Network Defense (Defesa de Rede)</td><td>Cisco Networking Academy</td><td>Nov 2025</td></tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Programming_Logic-IFRS-A855F7?style=for-the-badge&logo=academia&logoColor=white" alt="Programming Logic — IFRS" />
