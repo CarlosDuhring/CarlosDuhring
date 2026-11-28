@@ -35,12 +35,12 @@
 <text x="560" y="44" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.6" fill="#a855f7">LANGUAGES BY CODE VOLUME</text>
 <text x="560" y="71" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#d8b4fe">TypeScript</text>
   <rect x="680" y="60" width="300" height="9" rx="4.5" fill="#1b0b2e"/>
-  <rect x="680" y="60" width="96" height="9" rx="4.5" fill="url(#bar)"/>
-  <text x="990" y="71" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#9d7bb8">32%</text>
+  <rect x="680" y="60" width="93" height="9" rx="4.5" fill="url(#bar)"/>
+  <text x="990" y="71" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#9d7bb8">31%</text>
   <text x="560" y="97" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#d8b4fe">CSS</text>
   <rect x="680" y="86" width="300" height="9" rx="4.5" fill="#1b0b2e"/>
-  <rect x="680" y="86" width="75" height="9" rx="4.5" fill="url(#bar)"/>
-  <text x="990" y="97" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#9d7bb8">25%</text>
+  <rect x="680" y="86" width="72" height="9" rx="4.5" fill="url(#bar)"/>
+  <text x="990" y="97" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#9d7bb8">24%</text>
   <text x="560" y="123" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#d8b4fe">HTML</text>
   <rect x="680" y="112" width="300" height="9" rx="4.5" fill="#1b0b2e"/>
   <rect x="680" y="112" width="54" height="9" rx="4.5" fill="url(#bar)"/>
@@ -49,8 +49,8 @@
   <rect x="680" y="138" width="300" height="9" rx="4.5" fill="#1b0b2e"/>
   <rect x="680" y="138" width="39" height="9" rx="4.5" fill="url(#bar)"/>
   <text x="990" y="149" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#9d7bb8">13%</text>
-  <text x="560" y="175" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#d8b4fe">PHP</text>
+  <text x="560" y="175" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#d8b4fe">Python</text>
   <rect x="680" y="164" width="300" height="9" rx="4.5" fill="#1b0b2e"/>
-  <rect x="680" y="164" width="12" height="9" rx="4.5" fill="url(#bar)"/>
-  <text x="990" y="175" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#9d7bb8">4%</text>
+  <rect x="680" y="164" width="15" height="9" rx="4.5" fill="url(#bar)"/>
+  <text x="990" y="175" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#9d7bb8">5%</text>
 </svg>
